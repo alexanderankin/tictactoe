@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: tic-tac-toe
+
+
+  web:
+    resources:
+      cache:
+        cachecontrol:
+          no-cache: true
+
+server.port: 8081
